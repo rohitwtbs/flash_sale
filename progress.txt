@@ -1,0 +1,7 @@
+Design a flash sale just like the redmi flash sale 
+where there are a few handsets to be sold
+
+Start with skeleton no over engineering needed
+
+slowly and gradually after the skeleton has been done ,
+try thinking of every aspect of it.
